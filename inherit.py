@@ -48,7 +48,7 @@ print(em1.pay)
 print(em1.program_lang)
 mang1.print_emp()
 print(mang1.email)
-print(isinstance(mang1, developer ))
-print(issubclass(developer, employee))
+# print(isinstance(mang1, developer ))
+# print(issubclass(developer, employee))
  
  
